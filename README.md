@@ -50,15 +50,68 @@ These three campaigns can share the same ad and the difference lies in their obj
 * How many people filled the form in the website?
 * Number of ecommerce purchases
 
-### CORE Audience
+## Types of Audience:
+### 1. Core Audience
 Allows advertisers to reach people who would be interested in their brand
 Targeting people based on:
 * Demographics
 * Interests
 * Behaviors
-### Custom Audience
+### 2. Custom Audience
 A way of targeting people who have already interacted with your brand
-Eg: Companies can pass on the emails given by users for newsletters and transfer it to Facebook, who will then anonymize the email and match it with respective profiles
-### Lookalike Audience
+<br> Eg: Companies can pass on the emails given by users for newsletters and transfer it to Facebook, who will then anonymize the email and match it with respective profiles
+### 3. Lookalike Audience
 Allows marketers to target people who are similar to existing users. Thus automatically identifies people who might be interested in your product without any extensive research.
-Eg: Provide data related to existing users then Facebook can provide similar profiles
+<br> Eg: Provide data related to existing users then Facebook can provide similar profiles
+### Meta Pixel
+Is a code embedded in the website which helps you keep track of people who read an article, added an item to cart and browsed for a product and then target them with compelling ads to make a purchase. It can also collect:
+* User Actions
+* Demographic
+* Behaviour
+
+## Social Media Marketing Metrics
+1. Impressions
+2. Link Clicks
+3. Conversion Rate
+- Significant drop offs at any of these stages should be closely monitored
+- Drop-offs can be caused by bad user experience like slow-loading, time-consuming log in process etc.
+### 1. Reach - the number of people who saw your Facebook ad
+* A top funnel metric
+* Allows us to assess campaign visibility
+### 2. Impressions - the number of times an ad comes up on someone's timeline
+* The number of impressions >= reach
+* Must be tracked in awareness campaigns
+* Higher impressions lead to higher brand recall
+* However, people may get tired of seeing the ads too many times (Ad Fatigue)
+* Thus advertisers must balance between high add visibility and ad fatigue
+### 3. Click-Through-Rate (CTR) - displays the number of click to impressions
+* The number of people who click on your ad for every person who sees it
+* Lets you track how engaging you ad is
+* A low CTR means your add is uncompelling and less relevant
+### 4. Link Clicks - Number of ad clicks that led the user to a different destination
+* Represents a subset of the total number of clicks your ad recieves
+* Only considers clicks that takes the users to a follow-up page/destination
+* Helps to track how effectively the ad is driving users to desired destination
+### 5. Conversion Rate = Desired Action
+* Can be a purchase, newsletter subscription, adding to cart, e-book download
+* Conversion Rate = Conversions / Link Clicks
+### 6. Cost per mille (CPM) - The amount you are paying for every 1000 impressions
+* A high CPM means you are paying too much for people to see your ads - shows your ad isn't relevant to target audience, target audience is too narrow or high competition
+* A high CPM isn't always bad if running consideration or conversion campaign - people at the bottom of the marketing funnel has high purchasing potential
+* Facebook optimizes CPM in awareness campaigns
+### 7. Cost-Per-Link-Click (CPC) - The amount you pay for clicks on your ad
+* A high CPC means you are paying too much for people to see your ads - shows your ad isn't relevant to target audience, content isn't engaging
+* Facebook optimizes CPC in engagement campaigns
+* Should be tracked for performing A/B tests (CPC image vs video)
+### 8. Cost-Per-Result (CPR) or Cost-Per-Acquisition or Cost-Per-Conversion - the amount you pay for each conversion
+* CPR = Amount Spend / Total Number of Sales
+* Facebook optimizes CPR in conversion campaigns
+### 9. Return on Ad Spend (ROAS) - The revenue generated for every dollar you spend
+* Total Ad Revenue / Total Ad Spend
+* ROAS and ROI is not similar
+* ROAS - evaluates return from a specific campaign, Only ad cost considered
+* ROI - evaluates profitability from an entire project, All costs are considered (R&D, Equipment etc.)
+* Difficult to calculated ROAS, as some campaigns takes more time and won't generate revenue immediately
+* Set a reasonable time frame before calculating ROAS
+
+
